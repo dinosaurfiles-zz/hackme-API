@@ -1,0 +1,10 @@
+[
+	{
+		product_name: "test",
+		product_discounted_price: "",
+		product_promo_price: "",
+		product_main_image: "",
+		product_side_image: "",
+		product_info: ""
+	}
+]
