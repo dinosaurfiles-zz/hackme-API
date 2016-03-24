@@ -10,4 +10,4 @@ A `python` API developed during the [Hackathon Iloilo 2016](http://iloilohackath
 - Flask `pip install flask`
 - Scrapy `pip install scrapy`
 
-made with :heart: and :zap: drinks by ** @dinosaurfiles(Anfernee Sodusta) **
+made with :heart: and :zap: drinks by **@dinosaurfiles**
